@@ -40,4 +40,6 @@ It predicts whether a tumor is **Malignant** or **Benign**, while also providing
 
 ---
 
-## 📂 Folder Structure
+## ## 🚀 Live Demo
+👉 [Click here to use the app](https://nlyldpisrjvcxmvkhv837n.streamlit.app/)
+
